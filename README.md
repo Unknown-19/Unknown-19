@@ -1,6 +1,6 @@
 
 [![time](https://github-readme-stats.vercel.app/api/wakatime?username=@aoi_36e&layout=compact)](https://github.com/Unknown-19)
-[![Unknown-19's github stats](https://github-readme-stats.vercel.app/api?username=Unknown-19&count_private=true&include_all_commits=true)](https://github.com/Unknown-19)
+[![Unknown-19's github stats](https://github-readme-stats.vercel.app/api?username=Unknown-19&count_private=true)](https://github.com/Unknown-19)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-19&layout=compact&langs_count=8&hide=html,css)](https://github.com/Unknown-19)
 
 <h3 align="left">Languages and Tools:</h3>
